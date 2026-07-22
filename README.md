@@ -1,5 +1,17 @@
 # 🤖 AI Learning Journey
 
+## 🚀 Current Learning
+
+| Course | Status |
+|---------|--------|
+| AI for Everyone | 🟡 In Progress |
+| Prompt Engineering | ⏳ Planned |
+| AI Agents | ⏳ Planned |
+| LangChain | ⏳ Planned |
+| RAG | ⏳ Planned |
+| Azure AI | ⏳ Planned |
+| n8n | ⏳ Planned |
+
 Welcome to my AI learning journey.
 
 This repository documents my continuous learning in Artificial Intelligence, Business Analysis, Digital Transformation, and Strategy.
