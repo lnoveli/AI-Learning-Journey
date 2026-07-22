@@ -2,15 +2,47 @@
 
 ## 🚀 Current Learning
 
-| Course | Status |
-|---------|--------|
-| AI for Everyone | 🟡 In Progress |
-| Prompt Engineering | ⏳ Planned |
-| AI Agents | ⏳ Planned |
-| LangChain | ⏳ Planned |
-| RAG | ⏳ Planned |
-| Azure AI | ⏳ Planned |
-| n8n | ⏳ Planned |
+### 🟡 AI for Everyone *(In Progress)*
+
+Understanding the foundations of Artificial Intelligence from a business and strategic perspective.
+
+➡️ **Open:** [AI for Everyone](./AI-for-Everyone)
+
+---
+
+### ⏳ Prompt Engineering *(Planned)*
+
+Designing effective prompts for LLMs and enterprise AI applications.
+
+---
+
+### ⏳ AI Agents *(Planned)*
+
+Building autonomous AI workflows and multi-agent systems.
+
+---
+
+### ⏳ LangChain *(Planned)*
+
+Developing applications powered by Large Language Models.
+
+---
+
+### ⏳ RAG *(Planned)*
+
+Retrieval-Augmented Generation for enterprise knowledge systems.
+
+---
+
+### ⏳ Azure AI *(Planned)*
+
+Microsoft AI ecosystem and cloud AI services.
+
+---
+
+### ⏳ n8n *(Planned)*
+
+Workflow automation powered by AI.
 
 Welcome to my AI learning journey.
 
